@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Tuan 👋
 
-<!--
-**tuando05/tuando05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Machine Learning
+* Deep Learning
+* AI Engineer
+
+## 🚀 Current Projects
+
+* Friday(omnipotent assistant)
+* Indocs_RAG(chatbot internal)
+
+## 🎯 Goals
+
+* Understand machine learning algorithms deeply
+* Build useful applications
+* Improve problem-solving and software engineering skills
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/YOUR_USERNAME
+* Facebook: https://www.facebook.com/dt.3108
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
