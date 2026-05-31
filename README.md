@@ -21,7 +21,7 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/tuando05
 * Facebook: https://www.facebook.com/dt.3108
 
 ## 📊 GitHub Stats
