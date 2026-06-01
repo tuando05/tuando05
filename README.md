@@ -26,6 +26,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuando05&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuando05&layout=compact&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=tuando05&theme=light&border_radius=7)
