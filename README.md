@@ -8,11 +8,6 @@
 * Deep Learning
 * AI Engineer
 
-## 🚀 Current Projects
-
-* Friday(omnipotent assistant)
-* Indocs_RAG(chatbot internal)
-
 ## 🎯 Goals
 
 * Understand machine learning algorithms deeply
